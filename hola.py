@@ -4,4 +4,4 @@ for n in  range(i):
 	print(x, " ")
 	print(i-n)
 
-print("Fin")
+print("Adios")
